@@ -1,0 +1,4 @@
+.env.sh
+node_modules/
+keys/
+yarn.lock
